@@ -21,5 +21,10 @@
       ],
       "cpuQuotaPercentage" : 10,
       "memoryQuotaInMB" : 20
+    },
+    "signingInfo": {
+      "version": "0.9.0",
+      "type": "GATestExtGo",
+      "publisher": "Microsoft.Azure.Extensions.Edp"
     }
 }]
