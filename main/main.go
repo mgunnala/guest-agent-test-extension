@@ -20,7 +20,7 @@ import (
 
 var (
 	versionMajor    = "1"
-	versionMinor    = "2"
+	versionMinor    = "3"
 	versionBuild    = "0"
 	versionRevision = "0"
 	version         = fmt.Sprintf("%s.%s.%s.%s", versionMajor, versionMinor, versionBuild, versionRevision)
